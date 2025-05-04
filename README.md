@@ -2,6 +2,13 @@
 ## GROUP MEMBERS
 - Dennrick P. Agustin
 - Sevilla Ibanez
+### Deploy Link
+
+Base URL
+https://mini-res-tful-web-service-development.vercel.app
+Get JSON and all Students
+https://mini-res-tful-web-service-development.vercel.app/students
+
 
 ## Student Record Management API
 
@@ -28,6 +35,9 @@ Get Student by ID
 
 201 Created New Student
 ![201 Created New Student](image-2.png)
+
+201 Created New Students this is for the deployed Version
+![Vercel Created](https://github.com/user-attachments/assets/a91c27d6-cf06-4bd5-a1da-d74c8bd6c725)
 
 Update Data
 ![Dennrick Agustin f to Dennrick P. Agustin](image-3.png)
