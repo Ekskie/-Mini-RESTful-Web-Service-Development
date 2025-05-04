@@ -20,6 +20,9 @@ def generate_id():
 # DELETE /students/<student_id> - Deletes a student from the list using path parameter
 #--------------------------------------------------#
 
+@app.route('/')
+def index():
+    return "Welcome to the Student Management API!"
 
 # --------------------------------------------------#
 # GET all students
