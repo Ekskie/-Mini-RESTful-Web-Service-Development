@@ -3,6 +3,12 @@ import uuid
 
 app = Flask(__name__)
 
+# For Deployment only
+@app.before_request
+def load_sample_data():
+    if not students:
+        add_sample_data()
+
 # In-memory database for student records
 students = {}
 
