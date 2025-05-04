@@ -64,7 +64,7 @@ def get_student(student_id):
 # The required fields are 'name', 'age', and 'course'.
 # The endpoint will generate a unique ID for the new student and store the record in the database.
 # --------------------------------------------------#
-@app.route('/students', methods=['GET', 'POST'])
+@app.route('/students', methods=['POST'])
 def add_student():
     """Adds a new student record"""
     # Handle both JSON and form/query parameters
