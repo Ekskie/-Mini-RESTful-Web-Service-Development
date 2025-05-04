@@ -51,8 +51,7 @@ Delete Data Dennrick using ID
 
 1. Clone this repository or download the source code
 ```bash
-git clone [Ekskie/-Mini-RESTful-Web-Service-Development](https://github.com/Ekskie/-Mini-RESTful-Web-Service-Development.git)
-cd student-api
+git clone https://github.com/Ekskie/-Mini-RESTful-Web-Service-Development.git
 ```
 
 2. Create a virtual environment (optional but recommended)
