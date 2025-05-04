@@ -1,9 +1,9 @@
 # Performance Task: Mini RESTful Web Service Development
-# GROUP MEMBERS
+## GROUP MEMBERS
 - Dennrick P. Agustin
 - Sevilla Ibanez
 
-# Student Record Management API
+## Student Record Management API
 
 A simple RESTful API for managing student records built with Python Flask.
 
@@ -40,7 +40,7 @@ Delete Data Dennrick using ID
 
 1. Clone this repository or download the source code
 ```bash
-git clone [https://github.com/yourusername/student-api.git](https://github.com/Ekskie/-Mini-RESTful-Web-Service-Development.git)
+git clone [Ekskie/-Mini-RESTful-Web-Service-Development](https://github.com/Ekskie/-Mini-RESTful-Web-Service-Development.git)
 cd student-api
 ```
 
