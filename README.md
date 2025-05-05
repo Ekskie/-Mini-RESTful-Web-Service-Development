@@ -1,7 +1,7 @@
 # Performance Task: Mini RESTful Web Service Development
 ## GROUP MEMBERS
 - Dennrick P. Agustin
-- Sevilla Ibanez
+- Ma. Sevilla B. Ibanez
 ### Deploy Link
 
 - Base URL
